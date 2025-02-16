@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Custom dark mode styles */
+.dark .bg-white {
+    background-color: #1a1a1a !important;
+  }
+  .dark .text-black {
+    color: white !important;
+  }
